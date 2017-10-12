@@ -93,11 +93,7 @@
     {
       "path_to_root": "dotnet-xref",
       "url": "https://github.com/MicrosoftDocs/dotnet-xref",
-      "branch": "yu-update-xref",
-      "branch_mapping": {
-        "master": "master",
-        "live": "live"
-      }
+      "branch": "yu-update-xref"
     }
   ],
   "dependent_packages": [
